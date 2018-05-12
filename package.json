@@ -1,0 +1,19 @@
+{
+  "name": "music-project",
+  "version": "1.0.0",
+  "description": "scribbletune music projects",
+  "main": "chords.js",
+  "scripts": {
+    "test": "\"echo \"Error: no test specified\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ryanduchin/music-project.git%22.git"
+  },
+  "author": "Ryan Duchin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanduchin/music-project.git%22/issues"
+  },
+  "homepage": "https://github.com/ryanduchin/music-project.git%22#readme"
+}
